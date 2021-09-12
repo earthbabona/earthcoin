@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/earthcoin/static/css/main.e19150da.chunk.css",
+    "main.js": "/earthcoin/static/js/main.9b8012ea.chunk.js",
+    "main.js.map": "/earthcoin/static/js/main.9b8012ea.chunk.js.map",
+    "runtime-main.js": "/earthcoin/static/js/runtime-main.d617179c.js",
+    "runtime-main.js.map": "/earthcoin/static/js/runtime-main.d617179c.js.map",
+    "static/js/2.3cf7d9e0.chunk.js": "/earthcoin/static/js/2.3cf7d9e0.chunk.js",
+    "static/js/2.3cf7d9e0.chunk.js.map": "/earthcoin/static/js/2.3cf7d9e0.chunk.js.map",
+    "static/js/3.1c37edff.chunk.js": "/earthcoin/static/js/3.1c37edff.chunk.js",
+    "static/js/3.1c37edff.chunk.js.map": "/earthcoin/static/js/3.1c37edff.chunk.js.map",
+    "index.html": "/earthcoin/index.html",
+    "static/css/main.e19150da.chunk.css.map": "/earthcoin/static/css/main.e19150da.chunk.css.map",
+    "static/js/2.3cf7d9e0.chunk.js.LICENSE.txt": "/earthcoin/static/js/2.3cf7d9e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d617179c.js",
+    "static/js/2.3cf7d9e0.chunk.js",
+    "static/css/main.e19150da.chunk.css",
+    "static/js/main.9b8012ea.chunk.js"
+  ]
+}
